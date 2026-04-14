@@ -1,0 +1,27 @@
+{
+  "note1": {
+    "id": "note1",
+    "content": "Find a new job",
+    "favorite": true
+  },
+  "note2": {
+    "id": "note2",
+    "content": "Buy groceries",
+    "favorite": false
+  },
+  "note3": {
+    "id": "note3",
+    "content": "Watch the football match tonight",
+    "favorite": true
+  },
+  "note4": {
+    "id": "note4",
+    "content": "Play video games",
+    "favorite": true
+  },
+  "note5": {
+    "id": "note5",
+    "content": "Clean the house",
+    "favorite": false
+  }
+}
