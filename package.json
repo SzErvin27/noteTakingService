@@ -1,8 +1,8 @@
 {
   "name": "notetakingservice",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Note-Taking HTTP Microservice",
+  "main": "dist/app.js",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/app.ts",
     "build": "tsc",

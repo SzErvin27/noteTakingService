@@ -1,7 +1,7 @@
 import { Request, Response } from "express";
 import { NotesService } from "../services/notesService";
 
-// Cpontroller for handling HTTP requests
+// Controller for handling HTTP requests
 export class NotesController {
   constructor(private readonly notesService: NotesService) {}
 
